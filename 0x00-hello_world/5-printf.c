@@ -3,9 +3,9 @@
 /**
  * main - entry point
  *
- * description: prograsm prints using printf
+ * Description: prograsm prints using printf
  *
- * return: 0 (success)
+ * Return:Always  0 (Success)
 */
 
 int main(void)
