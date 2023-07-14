@@ -8,7 +8,7 @@
  * Return: Always 0 (Success)
 */
 
-in main(void)
+int main(void)
 {
 	char ch = 'a';
 	char CH = 'A';
@@ -17,7 +17,7 @@ in main(void)
 	while (ch <= 'z')
 	{
 		putchar(ch);
-		c++;
+		ch++;
 	}
 
 	/*prints A-Z*/
