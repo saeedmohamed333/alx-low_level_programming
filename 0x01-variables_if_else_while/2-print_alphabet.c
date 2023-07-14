@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main entry - point
+ * main - entry point
  *
- * Description: print all alphabet letters using while loop
+ * Description: print all alphabet letters using while loop and putchar
  *
  * Return: Always 0 (Success)
 */
