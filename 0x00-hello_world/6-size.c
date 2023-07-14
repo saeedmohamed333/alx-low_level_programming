@@ -3,10 +3,11 @@
 /**
  * main - entry point
  *
- * Description: a c program print datatype sizes 
+ * Description: a c program print datatype sizes
  *
  * Return: Always 0 (Success)
 */
+
 int main(void)
 {
 	printf("Size of a char: %u byte(s)\n", sizeof(char));
