@@ -3,7 +3,7 @@
 /**
  * main entry - point
  *
- * Description: print all alphabet letters
+ * Description: print all alphabet letters using while loop
  *
  * Return: Always 0 (Success)
 */
